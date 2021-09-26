@@ -17,23 +17,23 @@ public class Runner {
 		boolean roundFinished = false;
 		while (!roundFinished) {
 			//Choose computer action
-				//Char computerThrow = Thrower.getComputerThrow();
+				//Throw computerThrow = Thrower.getComputerThrow();
 			//ask player action
-				//Char playerThrow = Talker.getPlayerThrow();
+				//Throw playerThrow = Talker.getPlayerThrow();
 			
 			//evaluate round
 				//RoundResult roundResult = Referee.getRoundResult(computerThrow, playerThrow);
 				//Log.appendRoundResult(roundResult); abstract this somehow
 			
-				//Talker.printRoundMessage(computerThrow, playerThrow);
+				//Talker.printRoundMessage(roundResult);
 				//roundFinished = !roundResult.isTie();
 		}
 	}
 	
 	private static void welcomePlayer() {
 		//Print welcome text/rules
-		//Talker.printWelcomeMessage();
-		//Talker.printRulesMessage();
+		Talker.printWelcomeMessage();
+		Talker.printRulesMessage();
 	}
 	
 	private static void initializeLog() {
