@@ -1,0 +1,590 @@
+Welcome to RPS!
+Type a character representing a move when prompted. Press Enter to play it.
+Valid characters: r, p, s
+r beats s
+s beats p
+p beats r
+
+Round: 1
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 2
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+r
+Computer wins! paper covers rock.
+Round: 3
+Enter move (r, p, s):
+p
+Player wins! paper covers rock.
+Round: 4
+Enter move (r, p, s):
+p
+Computer wins! scissors cuts paper.
+Round: 5
+Enter move (r, p, s):
+p
+Computer wins! scissors cuts paper.
+Round: 6
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 7
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 8
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 9
+Enter move (r, p, s):
+malicious input
+Invalid input! Try again:
+
+Invalid input! Try again:
+漢
+Invalid input! Try again:
+r
+Player wins! rock smashes scissors.
+Round: 10
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+rock
+Invalid input! Try again:
+rock
+Invalid input! Try again:
+paper
+Invalid input! Try again:
+scissors
+Invalid input! Try again:
+s
+Tie!
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 11
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 12
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 13
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 14
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 15
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 16
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 17
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 18
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+p
+Computer wins! scissors cuts paper.
+Round: 19
+Enter move (r, p, s):
+ps
+Invalid input! Try again:
+s
+Tie!
+Enter move (r, p, s):
+p
+Player wins! paper covers rock.
+Round: 20
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 21
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 22
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 23
+Enter move (r, p, s):
+p
+Player wins! paper covers rock.
+Round: 24
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 25
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 26
+Enter move (r, p, s):
+r
+Computer wins! paper covers rock.
+Round: 27
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+p
+Player wins! paper covers rock.
+Round: 28
+Enter move (r, p, s):
+p
+Computer wins! scissors cuts paper.
+Round: 29
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 30
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 31
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 32
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+p
+Computer wins! scissors cuts paper.
+Round: 33
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 34
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+sp
+Invalid input! Try again:
+p
+Player wins! paper covers rock.
+Round: 35
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+r
+Computer wins! paper covers rock.
+Round: 36
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+p
+Player wins! paper covers rock.
+Round: 37
+Enter move (r, p, s):
+HI
+Invalid input! Try again:
+r
+Computer wins! paper covers rock.
+Round: 38
+Enter move (r, p, s):
+r
+Computer wins! paper covers rock.
+Round: 39
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 40
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 41
+Enter move (r, p, s):
+p
+Computer wins! scissors cuts paper.
+Round: 42
+Enter move (r, p, s):
+p
+Player wins! paper covers rock.
+Round: 43
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 44
+Enter move (r, p, s):
+r
+Computer wins! paper covers rock.
+Round: 45
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+p
+Computer wins! scissors cuts paper.
+Round: 46
+Enter move (r, p, s):
+r
+Computer wins! paper covers rock.
+Round: 47
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+p
+Computer wins! scissors cuts paper.
+Round: 48
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 49
+Enter move (r, p, s):
+p
+Player wins! paper covers rock.
+Round: 50
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 51
+Enter move (r, p, s):
+r
+Computer wins! paper covers rock.
+Round: 52
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 53
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 54
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+p
+Player wins! paper covers rock.
+Round: 55
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+p
+Computer wins! scissors cuts paper.
+Round: 56
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 57
+Enter move (r, p, s):
+p
+Player wins! paper covers rock.
+Round: 58
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 59
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 60
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 61
+Enter move (r, p, s):
+p
+Player wins! paper covers rock.
+Round: 62
+Enter move (r, p, s):
+r
+Computer wins! paper covers rock.
+Round: 63
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 64
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+r
+Computer wins! paper covers rock.
+Round: 65
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 66
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 67
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 68
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 69
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 70
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 71
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 72
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 73
+Enter move (r, p, s):
+r
+Computer wins! paper covers rock.
+Round: 74
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 75
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 76
+Enter move (r, p, s):
+r
+Computer wins! paper covers rock.
+Round: 77
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 78
+Enter move (r, p, s):
+r
+Computer wins! paper covers rock.
+Round: 79
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+p
+Player wins! paper covers rock.
+Round: 80
+Enter move (r, p, s):
+p
+Player wins! paper covers rock.
+Round: 81
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+p
+Computer wins! scissors cuts paper.
+Round: 82
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+p
+Computer wins! scissors cuts paper.
+Round: 83
+Enter move (r, p, s):
+p
+Computer wins! scissors cuts paper.
+Round: 84
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 85
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 86
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+r
+rPlayer wins! rock smashes scissors.
+Round: 87
+Enter move (r, p, s):
+
+Player wins! rock smashes scissors.
+Round: 88
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 89
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+Round: 90
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 91
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 92
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 93
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+r
+Player wins! rock smashes scissors.
+Round: 94
+Enter move (r, p, s):
+r
+Tie!
+Enter move (r, p, s):
+r
+rpPlayer wins! rock smashes scissors.
+Round: 95
+Enter move (r, p, s):
+
+Invalid input! Try again:
+p
+Tie!
+Enter move (r, p, s):
+p
+Computer wins! scissors cuts paper.
+Round: 96
+Enter move (r, p, s):
+p
+Tie!
+Enter move (r, p, s):
+p
+Player wins! paper covers rock.
+Round: 97
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 98
+Enter move (r, p, s):
+s
+Tie!
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 99
+Enter move (r, p, s):
+s
+Computer wins! rock smashes scissors.
+Round: 100
+Enter move (r, p, s):
+s
+Player wins! scissors cuts paper.
+               Player
+             r   p   s   Tot 
+            ----------------
+         r|   0  14 -24 -10
+Computer p| -13   0  16   3
+         s|  20 -13   0   7
+      Tot |   7   1  -8   0/100
+
