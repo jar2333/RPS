@@ -1,0 +1,6 @@
+Game Summary:
+
+Rounds : 100
+Computer wins: 51
+Player wins: 49
+Ties: 51

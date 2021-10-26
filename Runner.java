@@ -1,4 +1,4 @@
-/**
+	/**
  * This is the class that runs the RPS program. 
  * It contains the <code>main</code> method.
  * 
@@ -34,6 +34,28 @@
  * 4) The user, having had experience with other RPS programs, suggested a wait time inbetween user input and
  * the calculation of the round outcome. This adds a feeling of suspense. Given the large number of rounds, 
  * however, I decided to forego this functionality.
+ * 
+ * <br><br>
+ * 
+ * 5) B
+ * 
+ * <b>Step 2:</b>
+ * 
+ * <br><br>
+ * 
+ * 1) Mostly, but didn't specify that adding space to input doesn't work
+ * 
+ * <br><br>
+ * 
+ * 2) Responsive, user had no comments.
+ * 
+ * <br><br>
+ * 
+ * 3) The user was surprised that capital letters didn't work as valid moves.
+ * 
+ * <br><br>
+ * 
+ * 4) The user asked for some way to keep track of player score per round.
  * 
  * <br><br>
  * 

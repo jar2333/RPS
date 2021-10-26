@@ -24,6 +24,11 @@ public class Thrower {
 		return computerThrow;
 	}
 	
+	/**
+	 * Only implemented by subclasses with history.
+	 * 
+	 * @param round summary of current round
+	 */
 	public void learn(RoundSummary round) {}
 	
 	private Throw generateComputerThrow() {
